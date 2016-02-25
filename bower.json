@@ -1,0 +1,19 @@
+{
+  "name": "midexp",
+  "description": "",
+  "main": "",
+  "authors": [
+    "ParvatiPatel <paro.patel@rocketmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ParvatiPatel/midexp",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/Scripts/lib",
+    "test",
+    "tests"
+  ]
+}
